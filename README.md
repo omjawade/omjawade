@@ -1,5 +1,5 @@
 ### Hi there 👋
-![OM's GitHub stats](https://github-readme-stats.vercel.app/api?username=omjawae&show_icons=true&theme=radical)
+![OM's GitHub stats](https://github-readme-stats.vercel.app/api?username=omjawade&show_icons=true&theme=radical)
 
 <!--
 **omjawade/omjawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
